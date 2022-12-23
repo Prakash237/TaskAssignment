@@ -1,0 +1,23 @@
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: lightpink;
+  color: white;
+  text-align: center;
+}
+
+.button {
+  color: black;
+  background-color: chartreuse;
+}
+
+.hi {
+  color: black;
+  background-color: chartreuse;
+}
+
+.mx-auto {
+  text-decoration-line: underline;
+}

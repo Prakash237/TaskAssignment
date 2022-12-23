@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "product_name": "Milkfood",
+    "product_desc": "Milkfood Rich Desi Danedar Ghee",
+    "MRP": "20",
+    "product_price": "17.99",
+    "product_image": "./images/Milkfood.jpg",
+    "product_qty": 1,
+    "offer": "10%"
+  },
+  {
+    "id": 2,
+    "product_name": "Shivamrut",
+    "product_desc": "Shivamrut Malai Pedha",
+    "MRP": "40",
+    "product_price": "35.99",
+    "product_image": "./images/Shivamrut_peda.jpg",
+    "product_qty": 1,
+    "offer": "10%"
+  },
+  {
+    "id": 3,
+    "product_name": "Amul",
+    "product_desc": "Teasty & Quality Lassi",
+    "MRP": "20",
+    "product_price": "15.99",
+    "product_image": "./images/ProteinLassi.jpg",
+    "product_qty": 1,
+    "offer": "10%"
+  },
+  {
+    "id": 4,
+    "product_name": "Gokul",
+    "product_desc": "Teasty & Creamy Milk",
+    "MRP": "30",
+    "product_price": "25.99",
+    "product_image": "./images/Gokul.png",
+    "product_qty": 1,
+    "offer": "13.37%"
+  },
+  {
+    "id": 5,
+    "product_name": "Shivamrut",
+    "product_desc": "Healthy keshar  dudh",
+    "MRP": "70",
+    "product_price": "65.99",
+    "product_image": "./images/Keshar_dudh.jpg",
+    "product_qty": 1,
+    "offer": "05.72%"
+  },
+  {
+    "id": 6,
+    "product_name": "Shivamrut",
+    "product_desc": "Good Quality Tup",
+    "MRP": "70",
+    "product_price": "68.99",
+    "product_image": "./images/Tup.jpg",
+    "product_qty": 1,
+    "offer": "1.5%"
+  },
+  {
+    "id": 7,
+    "product_name": "Amul",
+    "product_desc": "Teasty & Quality Butter",
+    "MRP": "40",
+    "product_price": "35.99",
+    "product_image": "./images/AmulButter.jpg",
+    "product_qty": 1,
+    "offer": "10%"
+  },
+  {
+    "id": 8,
+    "product_name": "Madhusudhan",
+    "product_desc": "Teasty & Quality Ghee",
+    "MRP": "30",
+    "product_price": "25.99",
+    "product_image": "./images/MadhusudanGhee.jpg",
+    "product_qty": 1,
+    "offer": "10%"
+  },
+  {
+    "id": 9,
+    "product_name": "MotherDairy",
+    "product_desc": "Teasty & Quality Ghee",
+    "MRP": "20",
+    "product_price": "18.99",
+    "product_image": "./images/MotherDairy.jpg",
+    "product_qty": 1,
+    "offer": "5%"
+  },
+  {
+    "id": 10,
+    "product_name": "Amul",
+    "product_desc": "Teasty & Quality Dudh",
+    "MRP": "25",
+    "product_price": "19.99",
+    "product_image": "./images/AmulDudh.jpg",
+    "product_qty": 1,
+    "offer": "20%"
+  }
+]
